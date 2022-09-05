@@ -18,5 +18,5 @@ This is meant to demonstrate some familiarity with:
 3. Look at any documentation to work out the correct operation
 4. Write remaining code
 5. Compare the actual output with the expected output
-6. Write Tests
-(BONUS POINTS!) How would you improve this function's performance?
+6. Write tests
+7. (BONUS POINTS!) How would you improve this function's performance?
