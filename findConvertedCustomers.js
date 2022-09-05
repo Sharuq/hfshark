@@ -5,7 +5,7 @@ import sales from "./services/sales.js";
 function getConvertedCustomers() {
     /*
         You are given an array of objects customers in the format
-        [{'customer_id': int, 'name': 'String'} ... ]
+        [{'customer_id': int, 'name': String} ... ]
 
         And another array of sales in the format
         [{'sales_id': int, 'customer_id': int} ... ]
@@ -26,4 +26,4 @@ function getConvertedCustomers() {
 }
 
 
-// getConvertedCustomers()
+getConvertedCustomers()
