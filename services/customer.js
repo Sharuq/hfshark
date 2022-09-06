@@ -5,7 +5,7 @@ function getAllCustomers() {
             {'customer_id': '4', 'name': 'James'},
             {'customer_id': '90', 'name': 'Carla'},
             {'customer_id': '8', 'name': 'Noah'},
-            {'customer_id': '90', 'name': 'John'}]
+            {'customer_id': '95', 'name': 'John'}]
 }
 
 async function getAllCustomersAsync() {
